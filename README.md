@@ -2,8 +2,8 @@
 
 1. Download and install the [BeatSaberHTTPStatus plugin](https://github.com/opl-/beatsaber-http-status/releases)
 2. Create a Browser source
-3. Set the URL as `http://overlay.reselim.io/` and the size equal to your canvas size (1280x720, etc.)
-4. (Optional) For 1080p canvases, add the `scale` modifier (ex. `http://overlay.reselim.io/?modifiers=scale`) to scale the overlay by 1.5x
+3. Set the URL as `https://nyrotek1.github.io/Nyroverlay/` and the size equal to your canvas size (1280x720, etc.)
+4. (Optional) For 1080p canvases, add the `scale` modifier (ex. `https://nyrotek1.github.io/Nyroverlay/?modifiers=scale`) to scale the overlay by 1.5x
 
 ## Options
 Options are added to the URL query as such:
